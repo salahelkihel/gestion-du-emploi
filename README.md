@@ -1,2 +1,4 @@
 # gestion-du-emploi
-# gestion-du-emploi
++ composer install
++ php artisan migrate
++ php artisan serve
